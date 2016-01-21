@@ -12,16 +12,16 @@ There were a lot of chapters though which is why I didn't want to sit down with 
 
 Example 
 ```
-* 345-367
-* 756-800
+345-367
+756-800
 ```
 
-in .txt file = 
+in .txt file
 ```
-* 345
-* 367
-* 756
-* 800
+345
+367
+756
+800
 ```
 ---
 To compile:

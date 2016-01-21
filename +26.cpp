@@ -37,7 +37,7 @@ int main (){
 	int pagenum=0, i=0;
 	
 	//reads in my txt file with chapter numbers
-	ifstream chapters("chp.txt");
+	ifstream chapters("chapters.txt");
 	
 	//creates output file
 	ofstream out("output.txt");
