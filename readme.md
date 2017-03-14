@@ -48,11 +48,5 @@ output.txt
 The output file should give the numbers back in the original format so you can easily copy and paste them into google pdf viewer for printing only the pages you want.
 
 
-
-<<<<<<< HEAD
 ## Further Forking
 I could've written in to use the hyphen as a delimiter so that you didn't have to input a file that had one number on each line but I was on a time limit so I didn't really care. The output file should give the numbers back in the original format so you can easily copy and paste them into google pdf viewer for printing only the pages you want.
-=======
-##Further Forking
-I could've written in to use the hyphen as a delimiter so that you didn't have to input a file that had one number on each line but I was on a time limit so I didn't really care.
->>>>>>> origin/master
